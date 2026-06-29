@@ -42,6 +42,7 @@ img_flip.save(output_image)
  ```bash
  python3 flip.py input.jpg output.jpg
  ```
+
 | 入力画像 (input.jpg) | 出力画像 (output.jpg) |
-|---------------------|----------------------|
-| ![](input.jpg) | ![](output.jpg) |
+|----------------------|----------------------|
+| <img src="input.jpg" width="300"> | <img src="output.jpg" width="300"> |
